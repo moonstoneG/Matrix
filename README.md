@@ -19,8 +19,10 @@ The Portal effect in this game
 Players need to interact with objects and solve puzzles,so they can find the portal doors to next level.
 
 Such as......
-![20231221175004_rec_](https://github.com/moonstoneG/Matrix/assets/76591064/83bdef3c-1b35-4998-8ee1-d0085e718c6e) Dynamic size door 
+![20231221175004_rec_](https://github.com/moonstoneG/Matrix/assets/76591064/83bdef3c-1b35-4998-8ee1-d0085e718c6e) 
+Dynamic size door 
 
 
-![20231221175344_rec_](https://github.com/moonstoneG/Matrix/assets/76591064/a5b1f2da-efa5-4f73-b541-e4524cf81d11) Invisiable cubes
+![20231221175344_rec_](https://github.com/moonstoneG/Matrix/assets/76591064/a5b1f2da-efa5-4f73-b541-e4524cf81d11)
+invisible cubes
 
